@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tournament Player Stats</title>
+</head>
+<body>
+
+<h1>Game Scores and Wins</h1>
+<% scores.forEach(score => { %>
+<p>
+    <%= score.gameScore %> <%= score.win %>
+</p>
+<% }) %>
+</body>
+</html>

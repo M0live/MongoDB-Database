@@ -1,0 +1,10 @@
+[
+    {"gameId":1,"playerName":"Itzmedark", "team":"Chia LaBeouf", "win":true, "kFactor":32},
+    {"gameId":1,"playerName":"Betteridge", "team":"Chia LaBeouf", "win":true, "kFactor":32},
+    {"gameId":1,"playerName":"Magick", "team":"Chia LaBeouf", "win":true, "kFactor":32},
+    {"gameId":1,"playerName":"WainoGaming", "team":"Chia LaBeouf", "win":true, "kFactor":32},
+    {"gameId":1,"playerName":"HornE", "team":"Royal Bears", "win":false, "kFactor":32},
+    {"gameId":1,"playerName":"ItPADS.", "team":"Royal Bears", "win":false, "kFactor":32},
+    {"gameId":1,"playerName":"NemesisX", "team":"Royal Bears", "win":false, "kFactor":32},
+    {"gameId":1,"playerName":"Hevven", "team":"Royal Bears", "win":false, "kFactor":32}
+]

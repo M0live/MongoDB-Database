@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tournament Player Stats</title>
+</head>
+<body>
+
+<h1>To Show Aggregate Calculations - Average Score for Players</h1>
+<% avgScores.forEach(avgScore => { %>
+<p>
+    Player: <%= avgScore._id %> has average score of <%= avgScore.avgGameScore %>.
+</p>
+<% }) %>
+</body>
+</html>

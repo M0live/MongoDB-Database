@@ -1,0 +1,6 @@
+[{"playerId":1,"gameScore":2000, "win":true},
+    {"playerId":1,"gameScore":1900, "win":true},
+    {"playerId":1,"gameScore":1800, "win":false},
+    {"playerId":2,"gameScore":2100, "win":false},
+    {"playerId":2,"gameScore":2200, "win":true}
+]

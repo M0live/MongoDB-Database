@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tournament Player Stats</title>
+</head>
+<body>
+
+<h1>Players, Wins and Games</h1>
+<% Games.forEach(Game => { %>
+<p>
+  Player <%= Game.playerName %> in team <%= Game.team %> with kfactor of <%= Game.kFactor %> where a win was <%= Game.win %>. 
+</p>
+<% }) %>
+</body>
+</html>
